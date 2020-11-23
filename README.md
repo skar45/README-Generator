@@ -4,23 +4,21 @@
 
 
 ### Description
-Generates read-me file using inquirer module and fs module
+Generates read-me file using inquirer module and fs module.
 
 ### Table of Content  
 [Installation](#custom-inst)  
 [Usage](#custom-usg)  
 [Lisence](#custom-lis)  
-[Contribution Guideline](#custom-cont)  
-[Test Instructions](#custom-test)  
-[Questions](#custom-q)  
+ 
 
-## Installation {#custom-inst}
-Node.js, NPM packages: Inquirer
+## Installation
+Required: Node.js, NPM packages: Inquirer. Run 'node index.js' in your commandline 
 
-## Usage {#custom-usg}
+## Usage
 As a developer I want to create read me files using a readme generator for my projects
 
-## License {#custom-lis}
+## License
 MIT License
 
         Copyright (c) [year] [fullname]
@@ -43,11 +41,4 @@ MIT License
         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
         SOFTWARE.
 
-## Contribution Guidelines {#custom-cont}
-None
 
-## Test Instructions {#custom-test}
-None
-
-## Questions {#custom-q}
-None

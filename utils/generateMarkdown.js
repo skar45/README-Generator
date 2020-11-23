@@ -9,29 +9,29 @@ function generateMarkdown(data) {
 ${data.description}
 
 ### Table of Content  
-[Installation](#custom-inst)  
-[Usage](#custom-usg)  
-[Lisence](#custom-lis)  
+[Installation](#Installation)  
+[Usage](#Usage)  
+[Lisence](#License)  
 [Contribution Guideline](#custom-cont)  
 [Test Instructions](#custom-test)  
 [Questions](#custom-q)  
 
-## Installation {#custom-inst}
+## Installation 
 ${data.installation}
 
-## Usage {#custom-usg}
+## Usage
 ${data.usage}
 
-## License {#custom-lis}
+## License
 ${data.lis}
 
-## Contribution Guidelines {#custom-cont}
+## Contribution Guidelines
 ${data.contribution}
 
-## Test Instructions {#custom-test}
+## Test Instructions
 ${data.test}
 
-## Questions {#custom-q}
+## Questions
 ${data.questions}
 `
 };
