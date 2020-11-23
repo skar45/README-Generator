@@ -4,20 +4,15 @@
 
 
 ### Description
-This app can save and delete notes. It uses api routes to send HTTP methods to the server. The server takes the request and then depending on the nature of the request reads the database json file and then modifies it.
-
+This app is generates readme files using the CLI
 ### Table of Content  
 [Installation](#Installation)  
 [Usage](#Usage)  
 [Lisence](#License)  
 [Contribution Guideline](#custom-cont)  
-[Test Instructions](#custom-test)  
-[Questions](#custom-q)  
 
 ## Installation 
 Node.JS is required.
-
-Run `node server.js` in the command line.
 
 ## Usage
 
@@ -45,9 +40,8 @@ MIT License
         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
         SOFTWARE.
 
-## Contribution
+## Contribution 
 
 Sajal Karkee
 
-https://github.com/skar45
-
+https://github.com/skar45/
