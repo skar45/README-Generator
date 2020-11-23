@@ -1,27 +1,31 @@
-# ReadMe Generator
+# Note Taker
 
 ![badge](https://img.shields.io/badge/MIT-green)
 
 
 ### Description
-Generates read-me file using inquirer module and fs module.
+This app can save and delete notes. It uses api routes to send HTTP methods to the server. The server takes the request and then depending on the nature of the request reads the database json file and then modifies it.
 
 ### Table of Content  
-[Installation](#custom-inst)  
-[Usage](#custom-usg)  
-[Lisence](#custom-lis)  
- 
+[Installation](#Installation)  
+[Usage](#Usage)  
+[Lisence](#License)  
+[Contribution Guideline](#custom-cont)  
+[Test Instructions](#custom-test)  
+[Questions](#custom-q)  
 
-## Installation
-Required: Node.js, NPM packages: Inquirer. Run 'node index.js' in your commandline 
+## Installation 
+Node.JS is required.
+
+Run `node server.js` in the command line.
 
 ## Usage
-As a developer I want to create read me files using a readme generator for my projects
+
 
 ## License
 MIT License
 
-        Copyright (c) [year] [fullname]
+        Copyright (c) [2020] [Sajal Karkee]
         
         Permission is hereby granted, free of charge, to any person obtaining a copy
         of this software and associated documentation files (the "Software"), to deal
@@ -41,4 +45,9 @@ MIT License
         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
         SOFTWARE.
 
+## Contribution
+
+Sajal Karkee
+
+https://github.com/skar45
 
